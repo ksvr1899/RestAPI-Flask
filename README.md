@@ -1,38 +1,13 @@
 # REST APIs with Flask and Python
 
-<p align="center">
- <img src="assets/course-image.png" alt="REST APIs with Flask and Python (Udemy banner image)"></a>
-</p>
 
-<div align="center">
-
-[![Udemy rating 4.6/5](https://img.shields.io/badge/udemy-4.6%2F5-brightgreen)](https://go.tecla.do/rest-apis-ebook) ![GitHub last commit](https://img.shields.io/github/last-commit/tecladocode/rest-apis-flask-python/develop) ![Python 3.10](https://img.shields.io/badge/python-3.10-yellow) [![Discord](https://img.shields.io/discord/614395983807250433)](https://discord.gg/78Nvd3p) [![Twitter Follow](https://img.shields.io/twitter/follow/jslvtr?style=social) ](https://twitter.com/jslvtr)
-
-</div>
 
 ---
 
-<p align = "center">💡 A full course to teach you how to use Flask and Python to make REST APIs using multiple Flask extensions and PostgreSQL.</p>
+<p align = "center">💡REST APIs using multiple Flask extensions and PostgreSQL.</p>
 
 ## Getting started
 
-Enrol in the course by going to [this link](https://go.tecla.do/rest-apis-ebook).
-
-Then you can come back here to download the repository. This repository contains the code that we develop in each section of the course.
-
-If you are familiar with Git, you can use Git to download it. Otherwise, you can download it as a zip file:
-
-![Download repo as a zip file](assets/download-repo-zip.png)
-
-Next, start taking the course at the beginning! You can use the downloaded code files to support you while you go through the course.
-
-I also **strongly recommend** you code while you take the course. A good strategy is:
-
-1. Watch the video intently, optionally while taking notes.
-2. Watch again, more quickly, while typing the code together with me.
-3. Once you're done with the video, play about with the code. Make changes, break things, then fix them, and try to thoroughly understand everything the code does.
-
-If you do this for the entire course, I guarantee you will learn how to make REST APIs using Flask and Python well and quickly. You'll still be using Google and searching for stuff every day, but so does everyone else!
 
 ## Section 2: A Full Python Refresher
 
